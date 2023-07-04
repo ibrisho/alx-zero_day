@@ -1,1 +1,1 @@
-git configuration
+git configuration and git commands
